@@ -81,7 +81,7 @@ FAILED (failures=1)
 
 - [Curso de flask para mais informações](https://www.youtube.com/watch?v=r40pC9kyoj0)
 - [Comandos do FLASK](https://flask.palletsprojects.com/en/2.0.x/cli/)
-- [Exemplos de WSGI compatíveis com FLASK](https://flask.palletsprojects.com/en/2.0.x/eploying/)
+- [Exemplos de WSGI compatíveis com FLASK](https://flask.palletsprojects.com/en/2.0.x/deploying/)
 - [Gunicorn](https://flask.palletsprojects.com/en/2.0.x/deploying/wsgi-standalone/)
 
 - [Criando um projeto mínimo, pronto para produção](https://mark.douthwaite.io/getting-production-ready-a-minimal-flask-app/)
