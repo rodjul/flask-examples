@@ -1,4 +1,4 @@
-from flask import Response, Blueprint, render_template, request, jsonify
+from flask import Response, Blueprint, jsonify
 import json
 
 from app.models import user

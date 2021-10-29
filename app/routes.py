@@ -1,4 +1,4 @@
-from flask import Response, Blueprint, render_template, request
+from flask import Blueprint, render_template, request
 import json
 
 
