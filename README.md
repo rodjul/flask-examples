@@ -29,7 +29,7 @@ $ source env/bin/activate
 ```
 Iniciando o ambiente virtual (windows)
 ```
-$ .\env\bin\activate.cmd
+$ .\env\Scripts\activate.bat
 ```
 
 Instalar as depêndencias
@@ -40,6 +40,11 @@ Instalar as depêndencias
 Iniciar o projeto
 ```bash
 (env) $ flask run --debugger --reload --host 0.0.0.0
+```
+
+Depois que executou e finalizou o projeto, execute o seguinte comando para desativar o ambiente virtual se utilizar o mesmo terminal
+```bash
+(env) $ deactivate
 ```
 
 
