@@ -17,7 +17,7 @@ def list_users() -> list:
 
 def get_user(user_id:int) -> dict:
     '''
-    Obtém todos os usuários da API
+    Obtém um usuário da API
 
     Returns:
         dict(users): uma dict de um usuário
