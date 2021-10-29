@@ -23,6 +23,15 @@ Criar um ambiente virtual
 $ python3 -m virtualenv env
 ```
 
+Iniciando o ambiente virtual (linux)
+```bash
+$ source env/bin/activate 
+```
+Iniciando o ambiente virtual (windows)
+```
+$ .\env\bin\activate.cmd
+```
+
 Instalar as depêndencias
 ```bash
 (env) $ pip3 install -r requirements.txt
