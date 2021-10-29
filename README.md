@@ -50,9 +50,9 @@ $ gunicorn -b 0.0.0.0:8080 -w 4 wsgi:app --log-level=debug
 [Visualizar](./examples/curl_commands.md)
 
 
-## Executando tests unitários / integração no projeto
+## Executando testes unitários / integração no projeto
 
-Execute o seguinte comando para validar os tests, para esse projeto o output será:
+Execute o seguinte comando para validar os testes, para esse projeto o output será:
 ```bash
 $ python3 -m unittest tests/test_app.py
 
