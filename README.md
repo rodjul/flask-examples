@@ -41,8 +41,8 @@ $ gunicorn -b 0.0.0.0:8080 -w 4 wsgi:app --log-level=debug
 
 ## Referências
 
+- [Curso de flask para mais informações](https://www.youtube.com/watch?v=r40pC9kyoj0)
 - [Comandos do FLASK](https://flask.palletsprojects.com/en/2.0.x/cli/)
-
 - [Exemplos de WSGI compatíveis com FLASK](https://flask.palletsprojects.com/en/2.0.x/eploying/)
 - [Gunicorn](https://flask.palletsprojects.com/en/2.0.x/deploying/wsgi-standalone/)
 
