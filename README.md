@@ -36,7 +36,7 @@ $ gunicorn -b 0.0.0.0:8080 -w 4 wsgi:app --log-level=debug
 
 ## Alguns exemplos de comando CURL
 
-- 
+[Visualizar](./examples/curl_commands.md)
 
 
 ## Referências
